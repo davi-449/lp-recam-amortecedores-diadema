@@ -25,11 +25,7 @@ export const HeroSection = () => {
           className="max-w-2xl"
         >
           <div className="inline-flex items-center gap-2 bg-surface-1/50 backdrop-blur-md px-4 py-2 rounded-full mb-6 border border-white/5 shadow-lg">
-            <span className="relative flex h-3 w-3">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-trust opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-3 w-3 bg-accent-trust"></span>
-            </span>
-            <span className="text-sm font-semibold text-zinc-200 tracking-wide uppercase">⚡ Aberto Agora &bull; Casa Grande &bull; Diadema</span>
+            <span className="text-sm font-semibold text-zinc-200 tracking-wide uppercase">Especialistas em Amortecedores &bull; Casa Grande &bull; Diadema</span>
           </div>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-white mb-6 leading-[1.1] tracking-tight">
