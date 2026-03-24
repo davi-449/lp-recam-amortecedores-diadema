@@ -31,7 +31,11 @@ export const MapSection = () => {
                 </div>
                 <div>
                   <h4 className="text-xl font-bold text-white mb-2">Horário de Funcionamento</h4>
-                  <p className="text-zinc-400 font-light">Segunda a Sexta<br/>09:00 - 18:00</p>
+                  <div className="text-zinc-400 font-light space-y-1 mt-3">
+                    <p className="flex justify-between gap-4"><span>Seg - Sex:</span> <span className="text-white font-medium">09:00 – 18:00</span></p>
+                    <p className="flex justify-between gap-4"><span>Sábado:</span> <span className="text-white font-medium">09:00 – 14:00</span></p>
+                    <p className="flex justify-between gap-4"><span>Domingo:</span> <span className="text-white font-medium">Fechado</span></p>
+                  </div>
                 </div>
               </div>
             </div>
