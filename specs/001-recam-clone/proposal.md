@@ -1,7 +1,7 @@
 # Landing Page Premium: RECAM Amortecedores (001)
 
 ## 1. Contexto
-A RECAM Amortecedores é uma empresa especializada em **recuperação de amortecedores automotivos** em Diadema/SP, com **5.010 avaliações no Google** e excelente reputação. Não possui website próprio — esta LP será a primeira presença digital da empresa.
+A RECAM Amortecedores é uma empresa especializada em **recuperação de amortecedores automotivos** em Diadema/SP, com **10 avaliações no Google (5.0★)** e excelente reputação. Não possui website próprio — esta LP será a primeira presença digital da empresa.
 
 ## 2. Dados do Negócio
 | Campo | Valor |
@@ -11,7 +11,7 @@ A RECAM Amortecedores é uma empresa especializada em **recuperação de amortec
 | **Endereço** | R. Afonso Pena, 433 - Casa Grande, Diadema - SP, 09960-490 |
 | **Telefone** | (11) 99821-9940 |
 | **Horário** | Seg-Sex: 09:00–18:00 (verificar exato com cliente) |
-| **Google Rating** | ~4.9 ★ (5.010 avaliações) |
+| **Google Rating** | 5.0 ★ (10 avaliações) |
 | **Website** | Não possui (será criado nesta LP) |
 | **Diferencial** | Economia de até 50% vs troca, serviço rápido e garantido |
 

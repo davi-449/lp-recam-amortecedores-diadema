@@ -14,8 +14,8 @@ export const TrustSection = () => {
             className="order-2 lg:order-1"
           >
             <h2 className="text-4xl md:text-6xl font-extrabold text-white mb-8 tracking-tight leading-tight">
-              5.010<span className="text-primary">+</span><br/>
-              <span className="text-zinc-500">Avaliações.</span>
+              Nota 5.0<span className="text-primary">.</span><br/>
+              <span className="text-zinc-500">10 Avaliações.</span>
             </h2>
             <div className="space-y-6 text-xl text-zinc-400 font-light leading-relaxed">
               <p>

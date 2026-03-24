@@ -17,7 +17,7 @@ export const SocialProofStrip = () => {
             <Star key={i} className="w-5 h-5 fill-accent-star text-accent-star" />
           ))}
         </div>
-        <span className="text-lg font-bold text-white">5.010+ Avaliações</span>
+        <span className="text-lg font-bold text-white">5.0 no Google (10+ Avaliações)</span>
         <span className="text-zinc-400 text-sm">|</span>
         <span className="text-zinc-300 text-sm font-medium">Garantia de Qualidade Comprovada</span>
       </div>
